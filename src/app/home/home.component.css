@@ -1,0 +1,22 @@
+.export-section{
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+nz-select{
+  width: 200px;
+}
+input{
+  width: 200px;
+}
+.btn-search{
+  float: left;
+  width: 80px;
+}
+.search-section{
+  margin-bottom: 20px;
+  margin-left: 60px;
+}
+.btn-export{
+  float: right;
+}
+
